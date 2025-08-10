@@ -1,3 +1,5 @@
+![VetiConnect Banner](https://raw.githubusercontent.com/thecloudwalkerx/VetiConnect/main/Banner.png)
+
 # VetiConnect - Veterinary Freelancing Platform
 
 Welcome to **VetiConnect**, an innovative online platform tailored specifically for veterinarians and pet owners. VetiConnect bridges the gap between vets and clients through remote consultations, health tracking, and much more — all from one seamless platform.
