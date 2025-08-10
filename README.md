@@ -12,45 +12,45 @@ VetiConnect is a feature-rich freelancing marketplace that enables veterinarians
 
 ## 🌟 Key Features
 
-- **Online Freelancing Platform for Veterinarians**  
-  Create vet profiles, connect with pet owners, and offer services remotely.
+🐾 **Online Freelancing Platform for Veterinarians**  
+Create vet profiles, connect with pet owners, and offer services remotely.
 
-- **Video Call Conference & Pet Checkup**  
-  Conduct live video consultations to diagnose and advise pet care without physical visits.
+📹 **Video Call Conference & Pet Checkup**  
+Conduct live video consultations to diagnose and advise pet care without physical visits.
 
-- **Online Prescription System**  
-  Easily generate and share digital prescriptions to pet owners.
+💊 **Online Prescription System**  
+Easily generate and share digital prescriptions to pet owners.
 
-- **Pet Health Tracking**  
-  Track pets' health parameters including medicine, diet, and overall wellness over time.
+📈 **Pet Health Tracking**  
+Track pets' health parameters including medicine, diet, and overall wellness over time.
 
-- **Domestic and Agricultural Farm Advice**  
-  Specialized advice for both household pets and agricultural animals, including medicine and diet tracking for farms.
+🌾 **Domestic and Agricultural Farm Advice**  
+Specialized advice for both household pets and agricultural animals, including medicine and diet tracking for farms.
 
-- **Comprehensive Medical History Tracking**  
-  Maintain a detailed medical record of each pet for easy reference and better care continuity.
+📋 **Comprehensive Medical History Tracking**  
+Maintain a detailed medical record of each pet for easy reference and better care continuity.
 
-- **Integrated Medicine Store**  
-  Integrated with an external e-commerce platform to order medicines and supplies directly.
+🛒 **Integrated Medicine Store**  
+Integrated with an external e-commerce platform to order medicines and supplies directly.
 
 ---
 
 ## 📂 Project Structure
 
-- `/components` — Reusable React components  
-- `/constants` — Static data such as features, plans, FAQs, and social media links  
-- `/pages` — Next.js pages including the homepage and other routes  
-- `/public` — Static assets including images and SVG icons  
+🧩 `/components` — Reusable React components  
+📑 `/constants` — Static data such as features, plans, FAQs, and social media links  
+📄 `/pages` — Next.js pages including the homepage and other routes  
+🖼️ `/public` — Static assets including images and SVG icons  
 
 ---
 
 ## ⚙️ Technologies Used
 
-- React.js with Next.js  
-- Tailwind CSS for styling  
-- SVG components for icons and visuals  
-- Video call integration (via WebRTC or third-party APIs)  
-- API integration with external ecommerce platform  
+⚛️ React.js with Next.js  
+🎨 Tailwind CSS for styling  
+🖼️ SVG components for icons and visuals  
+📞 Video call integration (via WebRTC or third-party APIs)  
+🔗 API integration with external ecommerce platform  
 
 ---
 
@@ -62,30 +62,30 @@ VetiConnect is a feature-rich freelancing marketplace that enables veterinarians
 
 ## 🔗 Useful Links
 
-- [Project Assets](https://drive.google.com/file/d/1u-l3p3qCnrwmWq5-bG7OkfCXFPYM9t5z/view?usp=sharing)  
-- [Live Demo](#) *(Add demo URL when available)*  
+🔗 [Project Assets] Will be uploaded soon!
+🌐 [Live Demo](#) Will be uploaded soon!
 
 ---
 
 ## 💡 Future Enhancements
 
-- Appointment scheduling & calendar sync  
-- Push notifications and reminders  
-- Mobile app support for iOS and Android  
-- Advanced analytics for vets  
-- Expanded ecommerce features with seamless checkout  
+📅 Appointment scheduling & calendar sync  
+🔔 Push notifications and reminders  
+📱 Mobile app support for iOS and Android  
+📊 Advanced analytics for vets  
+🛍️ Expanded ecommerce features with seamless checkout  
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests. If you find any issues or have suggestions, please open an issue on GitHub.
+🤗 Contributions are welcome! Feel free to fork the repository and submit pull requests. If you find any issues or have suggestions, please open an issue on GitHub.
 
 ---
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+📄 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
