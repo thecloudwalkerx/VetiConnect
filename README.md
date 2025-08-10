@@ -58,7 +58,7 @@ Integrated with an external e-commerce platform to order medicines and supplies 
 
 ## 📸 Screenshots
 
-*(Add your screenshots here to visually demonstrate the platform)*
+Will be uploaded soon!
 
 ---
 
