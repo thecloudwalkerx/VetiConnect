@@ -58,14 +58,14 @@ Integrated with an external e-commerce platform to order medicines and supplies 
 
 ## 📸 Screenshots
 
-Will be uploaded soon!
+Screenshots will be upload soon!
 
 ---
 
 ## 🔗 Useful Links
 
-🔗 [Project Assets] Will be uploaded soon!
-🌐 [Live Demo](#) Will be uploaded soon!
+🔗 Project assets will be uploaded soon!
+🌐 Live Demo will be uploaded soon!
 
 ---
 
@@ -82,12 +82,6 @@ Will be uploaded soon!
 ## 🤝 Contributing
 
 🤗 Contributions are welcome! Feel free to fork the repository and submit pull requests. If you find any issues or have suggestions, please open an issue on GitHub.
-
----
-
-## 📜 License
-
-📄 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
